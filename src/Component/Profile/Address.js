@@ -1,8 +1,6 @@
-
-
 import React from "react";
 
-function FullName() {
+function Adress() {
     let MyAdress = `636 Rockwell Street
                     North Tonawanda, NY 14120`
   return (
@@ -12,4 +10,4 @@ function FullName() {
   );
 }
 
-export default FullName;
+export default Adress;
